@@ -1,3 +1,21 @@
+# eatsome.
+
+A simple project written in a **React.js** that allows the user to search for a restaurant by providing the name and location (or the location only). 
+
+It supports sorting restaurants in three different ways - we can sort them by best match, best ratings, or most ratings.
+
+It uses the **Yelp API** to pull the results.
+
+![alt text](https://github.com/nerooc/eatsome./blob/master/src/images/eatsome_preview1.png)
+
+## React Components
+- App - main component holding the others
+- Business - represents one single search result 
+- BusinessList - holds all the businesses together on one list
+- SearchBar - allows the user to browse the restaurants
+
+![alt text](https://github.com/nerooc/eatsome./blob/master/src/images/eatsome_preview2.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
