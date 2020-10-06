@@ -8,7 +8,7 @@
 - React.js
 - Using fetch() with Yelp API
 
-A simple project written in a **React.js** that allows the user to search for a restaurant by providing the name and location (or the location only). 
+A simple project written in **React.js** that allows the user to search for a restaurant by providing the name and location (or the location only). 
 
 It supports sorting restaurants in three different ways - we can sort them by best match, best ratings, or most ratings.
 
