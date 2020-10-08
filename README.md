@@ -4,7 +4,7 @@
 
 ## Tech stack
 - HTML
-- CSS
+- CSS (RWD)
 - React.js
 - Using fetch() with Yelp API
 
