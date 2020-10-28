@@ -1,6 +1,6 @@
 # `eatsome.`
 
-### [OPEN DEMO]()
+### [OPEN DEMO](http://eatsome-tgajda.mybluemix.net/)
 
 ## Tech stack
 - HTML
