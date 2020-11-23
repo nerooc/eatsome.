@@ -1,6 +1,6 @@
 # `eatsome.`
 
-### [OPEN DEMO](http://eatsome-tgajda.mybluemix.net/)
+### [OPEN DEMO](https://eatsome.netlify.app/)
 
 ## Tech stack
 - HTML
